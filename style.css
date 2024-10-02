@@ -1,0 +1,10 @@
+
+.Faraz {
+    font-size: 100px !important;
+}
+
+@media (min-width:390px) and (max-width:844px) {
+    .Faraz {
+        font-size: 32px !important;
+    }
+}
